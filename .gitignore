@@ -1,0 +1,19 @@
+# 資料檔
+*.db
+
+# 模型檔
+models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 暫存
+tmp_*
+.ipynb_checkpoints/
+
+# 環境
+.env
+.venv/
+.DS_Store
